@@ -8,17 +8,19 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 - Distribute profits to different tiers of employees.
 - Distribute company shares for employees in a "deferred equity incentive plan" automatically.
 
-Files
+## Files
 
 AssociateProfitSplitter.sol -- Level 1 starter code.
 
-Instructions
+## Instructions
+
 This assignment has three levels of difficulty, with each contract increasing in complexity and capability. Although it is highly recommended you complete all three contracts, you are only required to solve one of the three contracts. Recommended to start with Level 1, then move forward as you complete the challenges. You can build all three with the skills you already have!
 
 
 Level One is an AssociateProfitSplitter contract. This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
-Starting your project
+## Starting your project
+
 Navigate to the Remix IDE and create a new contract called AssociateProfitSplitter.sol using the starter code for level one above.
 While developing and testing your contract, use the Ganache development chain, and point MetaMask to localhost:8545, or replace the port with what you have set in your workspace.
 
